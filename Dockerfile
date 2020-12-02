@@ -1,2 +1,2 @@
-FROM wangze889/php-env:v1
+FROM hanjia/yunkufang:v1
 MAINTAINER wangze
